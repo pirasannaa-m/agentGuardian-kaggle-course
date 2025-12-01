@@ -1,8 +1,8 @@
-###AgentGuardian - ADK + Gemini Capstone Project (Demo)
+### AgentGuardian - ADK + Gemini Capstone Project (Demo)
 
 This repository contains an ADK-style AgentGuardian scaffold for safety and compliance analysis of AI agent configurations.
 
-##Structure:
+### Structure:
 
  \- `src/tools`: safety tools, MCP client mock, memory bank
 
@@ -10,7 +10,7 @@ This repository contains an ADK-style AgentGuardian scaffold for safety and comp
 
  \- `demo\_runner.py`: example runner 
 
-## How to run:
+### How to run:
 
  1\. (Optional) Set `GOOGLE\_API\_KEY` environment variable if using Gemini.
 
